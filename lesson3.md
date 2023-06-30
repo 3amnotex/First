@@ -17,3 +17,10 @@
 5. Провести изменения с другого компьютера.
 
 6. Выкачать (pull) актуальное состояние из удаленного репозитория.
+
+1. Fork
+2. clone-fork
+3. cd fork_name
+4. create branch_new
+5. checkout branch_new
+6. add-commit-push(git push --set-upstream origin branch_new)
